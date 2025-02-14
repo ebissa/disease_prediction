@@ -113,11 +113,3 @@ The trained model will be saved to the backend/models/ directory.
 * Push to the branch (git push origin feature/YourFeature).
 * Open a pull request.
 
-# Contact
-
-**For questions or suggestions, please contact:**
-
-Name: Ayu-hack
-Email: ayushtiwari2100@gmail.com
-
-**Thank you for visiting our repository! We hope our project aids in advancing healthcare accessibility and early disease detection.**
